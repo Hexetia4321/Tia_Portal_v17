@@ -1,2 +1,2 @@
 # Tia_Portal_v17
- proyecto
+ Programaciones de PLC para TIA Portal V17
